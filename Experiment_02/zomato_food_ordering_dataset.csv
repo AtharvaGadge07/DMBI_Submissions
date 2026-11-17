@@ -1,0 +1,10 @@
+Order_ID,Customer_Name,Age,Gender,Restaurant,Cuisine,City,Payment_Method,Order_Status,Quantity,Order_Amount,Rating
+1001,Amit,22.0,Male,Food Hub,Indian,Mumbai,UPI,Delivered,2,450,4.5
+1002,Rahul,25.0,Male,Spice Villa,Chinese,Pune,Card,Delivered,3,720,4.0
+1003,Priya,,Female,Pizza Point,Italian,Mumbai,UPI,Delivered,1,350,4.2
+1004,Sneha,24.0,Female,Food Hub,Indian,Pune,,Cancelled,2,500,3.5
+1005,Amit,22.0,Male,Food Hub,Indian,Mumbai,UPI,Delivered,2,450,4.5
+1006,Vikram,28.0,Male,Biryani House,Indian,Nashik,Cash,Delivered,4,900,4.7
+1007,Neha,26.0,Female,Pizza Point,Italian,Mumbai,Card,Pending,2,600,
+1008,Rohan,,Male,Spice Villa,Chinese,Pune,UPI,Delivered,3,750,4.1
+1009,Kavya,23.0,Female,Biryani House,Indian,Nashik,,Delivered,2,480,4.6
